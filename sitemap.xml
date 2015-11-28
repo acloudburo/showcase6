@@ -1,25 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://showcase5.curation.space//2015/11/15/example-with-lightbox-images.html</loc>
+    <loc>https://showcase5.curation.space//menu1.html</loc>
     <lastmod>2015-11-28</lastmod>
-    <priority>0.7</priority>
+    <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://showcase5.curation.space//2015/11/15/example-with-youtube-videos.html</loc>
-    <lastmod>2015-11-28</lastmod>
-    <priority>0.7</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://showcase5.curation.space//2015/11/19/example-with-fixed-images.html</loc>
-    <lastmod>2015-11-28</lastmod>
-    <priority>0.7</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://showcase5.curation.space//footer1.html</loc>
+    <loc>https://showcase5.curation.space//about.html</loc>
     <lastmod>2015-11-28</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
@@ -31,15 +19,57 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://showcase5.curation.space//2015/11/19/example-with-fixed-images.html</loc>
+    <lastmod>2015-11-28</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://showcase5.curation.space//2015/11/15/example-with-youtube-videos.html</loc>
+    <lastmod>2015-11-28</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://showcase5.curation.space//2015/11/15/example-with-lightbox-images.html</loc>
+    <lastmod>2015-11-28</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://showcase5.curation.space//menu2.html</loc>
+    <lastmod>2015-11-28</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://showcase5.curation.space//footer2.html</loc>
+    <lastmod>2015-11-28</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://showcase5.curation.space//footer1.html</loc>
+    <lastmod>2015-11-28</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://showcase5.curation.space//menu4.html</loc>
+    <lastmod>2015-11-28</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://showcase5.curation.space//contact.html</loc>
     <lastmod>2015-11-28</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://showcase5.curation.space//menu3.html</loc>
+    <loc>https://showcase5.curation.space//partials/disqus.html</loc>
     <lastmod>2015-11-28</lastmod>
-    <priority>1.0</priority>
+    <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -55,39 +85,9 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://showcase5.curation.space//about.html</loc>
+    <loc>https://showcase5.curation.space//menu3.html</loc>
     <lastmod>2015-11-28</lastmod>
     <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://showcase5.curation.space//menu2.html</loc>
-    <lastmod>2015-11-28</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://showcase5.curation.space//menu1.html</loc>
-    <lastmod>2015-11-28</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://showcase5.curation.space//footer2.html</loc>
-    <lastmod>2015-11-28</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://showcase5.curation.space//menu4.html</loc>
-    <lastmod>2015-11-28</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>https://showcase5.curation.space//partials/disqus.html</loc>
-    <lastmod>2015-11-28</lastmod>
-    <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
